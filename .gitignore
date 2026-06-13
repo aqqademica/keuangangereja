@@ -3,3 +3,12 @@ uploads/*
 logs/*
 !logs/.htaccess
 scratch/
+
+# Planning, walkthrough, and database migration logs
+gerejamanagement.md
+implementation_plan.md
+production_readiness_analysis.md
+task.md
+walkthrough.md
+workflow_analysis.md
+scratch_update.sql
