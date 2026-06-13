@@ -1,0 +1,2 @@
+# Disable directory indexing (listing) for uploads folder
+Options -Indexes

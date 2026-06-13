@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.htaccess
+logs/*
+!logs/.htaccess
+scratch/
