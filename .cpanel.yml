@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gere1931/public_html/egereja.my.id
-    - /usr/bin/rsync -av --exclude='.git*' --exclude='.cpanel.yml' --exclude='schema.sql' --exclude='config/database.php' ./ $DEPLOYPATH/
+    - /bin/bash deploy.sh
+
